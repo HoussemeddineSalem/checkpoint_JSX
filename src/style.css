@@ -1,0 +1,27 @@
+.div-pos{
+  
+  width: 100%;
+  max-width: 600px;
+  padding: 15px;
+  margin: auto;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.title{
+  
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif; 
+}
+.red{
+  color: red;
+}
+
+.div-second-pos{ 
+  text-align: center;
+}
+
+
